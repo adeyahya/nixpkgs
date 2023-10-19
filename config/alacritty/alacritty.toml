@@ -1,0 +1,20 @@
+import = ["~/.config/alacritty/catppuccin.toml"]
+
+[font]
+size = 14
+
+[font.bold]
+family = "cascadia code"
+
+[font.italic]
+family = "cascadia code"
+
+[font.normal]
+family = "cascadia code"
+
+[window]
+  opacity = 1
+
+[window.padding]
+  x = 10
+  y = 10

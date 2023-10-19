@@ -1,0 +1,7 @@
+modmap:
+  - name: capslock to esc or control
+    remap:
+      capslock:
+        held: control_l
+        alone: esc
+        alone_timeout_millis: 300    
